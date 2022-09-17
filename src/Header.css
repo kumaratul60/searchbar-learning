@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.left {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-evenly; */
+  height: 50px;
+  width: 70%;
+  margin: 10px;
+  padding: 10px;
+}
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 50px;
+}
+.right {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  width: 30%;
+  margin: 10px;
+  padding: 10px;
+}
